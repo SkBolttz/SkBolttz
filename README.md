@@ -8,7 +8,7 @@ Sou um **estudante de programação** apaixonado por **aprender novas ferramenta
 - **Profissão:** Ainda não trabalho na área, mas busco uma primeira oportunidade para me aprofundar cada vez mais!
 - **Localização:** Blumenau, Santa Catarina
 - **Interesses:** Aprender novas mecânicas na programação, sempre buscando o melhor desenvolvimento.
-- 
+- **Hobbie:** Gosto de ler poesia, escrever e ter momentos de lazer com quem gosto.
 ## 📈 Minhas Habilidades
 
 - **Linguagens de Programação:** Utilizo principalmente o Java.
