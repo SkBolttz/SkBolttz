@@ -13,7 +13,7 @@ Sou um **estudante de programação** apaixonado por **aprender novas ferramenta
 ## 📈 Minhas Habilidades
 
 - **Linguagens de Programação:** Utilizo principalmente o Java.
-- **Linguagens de Programação:** Estou começando a me aprofundar um pouco mais em banco de dados.
+- **Linguagens de Programação:** Estou começando a me aprofundar um pouco mais em banco de dados e front end.
 
 ## 🌍 Conecte-se Comigo
 
@@ -22,6 +22,8 @@ Sou um **estudante de programação** apaixonado por **aprender novas ferramenta
 
 ![Java Logo](https://www.vectorlogo.zone/logos/java/java-icon.svg)
 ![MariaDB Logo](https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg)
+![Html Logo](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
+
 
 <p align="center">
   <img height="200" src="https://raw.githubusercontent.com/LTLA/acceptable-anime-gifs/master/registry/16742_WataMote/0001.gif">
