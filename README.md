@@ -13,7 +13,7 @@ Sou um **estudante de programação** apaixonado por **aprender novas ferramenta
 ## 📈 Minhas Habilidades
 
 - **Linguagens de Programação:** Utilizo principalmente o Java.
-- **Linguagens de Programação:** Estou começando a me aprofundar um pouco mais em banco de dados e front end.
+- **Aprendizagem:** Estou começando a me aprofundar um pouco mais em banco de dados e front end.
 
 ## 🌍 Conecte-se Comigo
 
