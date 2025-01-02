@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Pedro Henrique!
 
-Sou um **estudante de programação** apaixonado por **aprender novas ferramentas e utilidades**. Este repositório é uma forma de você conhecer um pouco mais sobre mim e meus projetos.
+Sou um **estudante de programação** apaixonado por **aprender novas ferramentas e utilidades**. Este repositório é uma forma de você conhecer um pouco mais sobre quem eu sou e meus projetos.
 
 ## 🌟 Sobre Mim
 
