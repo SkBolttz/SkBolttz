@@ -12,9 +12,9 @@ Sou um **estudante de programação** apaixonado por **aprender novas ferramenta
 
 ## 📈 Minhas Habilidades
 
-- **Linguagens de Programação:** Utilizo principalmente o Java.
-- **Front End** Me aprofundando cada vez mais em HTML e CSS, para posterior me aprofundar em Java Script
-- **Banco de Dados** Estou partindo do inicio, fixando bem a modelagem de dados para posterior me aprofundar em um banco de dados
+- **Linguagens de Programação:** Utilizo diarimanete Java me aprofudando cada vez mais com Framework Spring e aprimorando meus conhecimentos.
+- **Front End** Me aprofundando cada vez mais em HTML e CSS, para posterior me aprofundar em Java Script.
+- **Banco de Dados** Atualmente estou utilizando e estudo cada vez mais PostgresSQL para aplicações mais complexas e banco H2 para teste rápidos.
 
 ## 🌍 Conecte-se Comigo
 
