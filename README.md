@@ -12,9 +12,17 @@ Sou um **estudante de programação** apaixonado por **aprender novas ferramenta
 
 ## 📈 Minhas Habilidades
 
-- **Linguagens de Programação:** Utilizo diarimanete Java me aprofudando cada vez mais com Framework Spring e aprimorando meus conhecimentos.
-- **Front End** Conhecimentos Com HTML, CSS e Javascript, mas tentando me aprofundar cada vez mais.
-- **Banco de Dados** Atualmente estou utilizando e estudo cada vez mais PostgresSQL para aplicações mais complexas e banco H2 para teste rápidos.
+### Back-end
+Atuo no desenvolvimento de aplicações **backend em Java**, utilizando **Spring Boot**, **Spring Data JPA** e **Spring Security**, com foco em **APIs REST**, **arquitetura em camadas**, **boas práticas de Programação Orientada a Objetos**, **DTOs** e **validações com Bean Validation** entre outras utilidades.
+
+### Linguagens de Programação
+Utilizo **Java diariamente**, aprofundando constantemente meus conhecimentos no **Spring Framework** e no desenvolvimento de sistemas escaláveis e bem estruturados.
+
+### Front-end
+Possuo conhecimentos em **HTML, CSS e JavaScript** aplicacoes com **React**, desenvolvendo interfaces funcionais e responsivas, integradas ao backend por meio do consumo de **APIs REST**.
+
+### Banco de Dados
+Trabalho principalmente com **PostgreSQL e Oracle Developer** em aplicações mais complexas e utilizo o **H2** para **testes rápidos e ambientes de desenvolvimento**, buscando sempre evoluir em **modelagem de dados** e **SQL**.
 
 ## 🌍 Conecte-se Comigo
 
